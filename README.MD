@@ -235,3 +235,13 @@ for mobile gx-sm-2
 
 ## `BACKGROUNDS AND GRADIENTS`
 
++ `bg-primary`--> blue
++ `bg-secondary`-->greenish
++ `bg-success`
++ `bg-warning` --> yellow color
++ `bg-info` --> blue color
++ `bg-danger` --> red color
++ `bg-light` --> white color
++ `bg-dark` --> black color
++ `bg-white` --> white
++ `bg-transparent` -->
