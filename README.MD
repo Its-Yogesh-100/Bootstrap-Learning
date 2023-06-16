@@ -133,3 +133,63 @@ for desktop gx-lg-1
 for tablet gx-md-2
 for mobile gx-sm-2```
 
+
+ ```<div class="container">
+    <div class="row gx-lg-5 gy-4">
+        <div class="col-lg col-md col">hello</div>
+        <div class="col-lg col-md col">how </div>
+        <div class="col-lg col-md">are</div>
+        <div class="col-md col-md">you</div>
+    </div>
+ </div>
+ ```
+ 
+<hr color="white">
+
+## Text Related Class
+
+***There ae some classes of text that will help to do work in less time some of these are
+***
+- ## `center`
+     - `text-start` and desktop `text-lg-start` 
+     - `text-center` and
+     tablet `text-md-center`
+     - `text-end` and mobile `text-sm-end`
+ 
+- ## `text-break`
+     + to break a big text
+
+- ## `text-uppercase`
+     + all letters will be upper class
+- ## `text-capitaliza`
+     + every word first letter capitalize
+
+- ## `Font size`
+     + `fs-1` means 2.5 rem
+     + `fs-2` means 2 rem
+     + `fs-3` means 1.7 5rem
+     + `fs-4` means 1.5rem
+     + `fs-5` means 1 rem
+
+- ## `Font Weight and Italics`
+     + `fw-bold` 
+     + `fw-bolder`
+     + `fw-normal`
+     + `fw-lighter`
+     + `fst-italic`
+     + `fst-normal`
+
+<hr size="10" color="green">
+
+## UTILITY CLASSES `(SPACING)`
+
+
+***•m - for classes that set margin<br>
+•p - for classes that set padding***
+
+- **`t` - for classes that set margin-top or padding-top**
+- **`b` - for classes that set margin-bottom or padding-bottom**
+- **`s` - (start) for classes that set margin-left or padding-left in LTR, margin-right or padding-right in RTL**
+- **`e` - (end) for classes that set margin-right or padding-right in LTR, margin-left or padding-left in RTL**
+- **`x` - for classes that set both `*-left` and * `-right`**
+- **`y` - for classes that set both `*-top` and * `-bottom`**
