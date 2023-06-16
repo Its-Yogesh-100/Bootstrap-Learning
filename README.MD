@@ -47,3 +47,11 @@ mostly our website use 1170px
 
 ![Alt text](image.png)
 
+<hr color="red">
+
+**Bootstrap kisi bhi div ko 12 columns me divide kar deta hai**
+
+***.col,.col-sm,.col-md,.col-lg,.col-xl,.col-xsl<br>
+every div will get 12
+classes*** 
+
