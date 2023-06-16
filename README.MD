@@ -181,6 +181,20 @@ for mobile gx-sm-2
 
 <hr size="10" color="green">
 
+*example*
+
+```<div class="container">
+    <div class="row">
+        <div class="col-12 text-center text-lg-start text-md-end">
+            <p class="fs-2 fw-bolder">
+                WElcome to my new channel
+            </p>
+        </div>
+    </div>
+</div>
+```
+
+
 ## UTILITY CLASSES `(SPACING)`
 
 
@@ -193,3 +207,31 @@ for mobile gx-sm-2
 - **`e` - (end) for classes that set margin-right or padding-right in LTR, margin-left or padding-left in RTL**
 - **`x` - for classes that set both `*-left` and * `-right`**
 - **`y` - for classes that set both `*-top` and * `-bottom`**
+
+
+## About size
+
+- ***`p-1 .25 rem 4px`***
+- ***`p-2 .25 rem 8px`***
+- ***`p-3 .25 rem 16px`***
+- ***`p-4 .25 rem 24px`***
+- ***`p-5 .25 rem 48px`***
+
+
+>example
+```
+<div class="container">
+    <div class="row row-cols-1">
+        <div class="m-1 p-3"style="background-color: tomato;">
+            <p class="text-break">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere numquam itaque consequatur magnam rem laudantium nobis labore fuga amet, assumenda reprehenderit at ratione culpa, aut eos, placeat optio in ipsum quo sed! Voluptate nobis iste veniam eligendi neque corporis facere, veritatis inventore minima ea tenetur adipisci iure tempora quos obcaecati!
+            </p>
+        </div>
+    </div>
+</div>
+```
+
+<hr color="yellow">
+
+## `BACKGROUNDS AND GRADIENTS`
+
