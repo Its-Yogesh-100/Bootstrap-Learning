@@ -68,10 +68,50 @@ classes***
             </div>
     </div>
 ```
-## Auto Column Website
+## Auto Column layout
+
+```<div class="container">
+    <div class="row">
+        <div class="col-lg col col-md">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sequi eius perferendis distinctio ad neque voluptatum nulla accusantium nobis maiores fuga omnis similique doloremque quas quae consequuntur, harum rem explicabo voluptate.</div>
+        <div class="col-lg col-12 col-md">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sequi eius perferendis distinctio ad neque voluptatum nulla accusantium nobis maiores fuga omnis similique doloremque quas quae consequuntur, harum rem explicabo voluptate</div>
+        <div class="col-lg col-md">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sequi eius perferendis distinctio ad neque voluptatum nulla accusantium nobis maiores fuga omnis similique doloremque quas quae consequuntur, harum rem explicabo voluptate</div>
+    </div>
+</div> 
+```
+
 
 
 **IS type ke column ke liye 
 use hoge vaha 12 colums ke according adjust nahi kar sakte**
 
+<hr color="yellow">
 
+## `Row columns`
+
+
+
+***AUTO Column automatic 10 div ko ek line me leke aayege <br>agar mujhe ek hi line me char column chaiye then we use Row column layout***
+
+
+```<div class="container">
+    <div class="row row-cols-2 row-cols-lg-4 row-cols-md-3">
+        <div class="col">hello</div>
+        <div class="col">hello</div>
+        <div class="col">hello</div>
+        <div class="col">hello</div>
+        <div class="col">hello</div>
+        <div class="col">hello</div>
+        <div class="col">hello</div>
+        <div class="col">hello</div>
+        <div class="col">hello</div>
+        <div class="col">hello</div>
+
+    </div>
+ </div>
+ ```
+
+<hr color="blue">
+
+## GUTTER CLASSES
+
+**gutter classes column ke bech me padding and margin dene ka kam karti he <br> left or right padding dega <br> top and bottom me margin dega <br> g prefix he** <br>
