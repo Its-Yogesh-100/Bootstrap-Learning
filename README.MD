@@ -114,4 +114,22 @@ use hoge vaha 12 colums ke according adjust nahi kar sakte**
 
 ## GUTTER CLASSES
 
-**gutter classes column ke bech me padding and margin dene ka kam karti he <br> left or right padding dega <br> top and bottom me margin dega <br> g prefix he** <br>
+**gutter classes column ke bech me padding and margin dene ka kam karti he <br> left or right padding dega <br> top and bottom me margin dega <br> g prefix he <br> 1rem =16px <br> yaha par jo
+g-x (0-5) tak hogi**
+
+> defalut padding 12 px from left and right
+* gx-1 uses .25rem matlab 4px mtlb 2px padding from left and right
+* gx-2 uses .5 rem matlab 8px 
+4px left and 4px right
+* gx-3 uses 1rem matlab 16px 
+8px left and 8px from right
+* gx-4 uses 1.5rem matlab 24px 
+12left and 12 right 
+* gx-5 uses 3 rem matlab 48px
+24px left padding and 24 px right padding
+
+``` 
+for desktop gx-lg-1
+for tablet gx-md-2
+for mobile gx-sm-2```
+
