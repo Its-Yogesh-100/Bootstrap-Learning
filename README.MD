@@ -245,3 +245,51 @@ for mobile gx-sm-2
 + `bg-dark` --> black color
 + `bg-white` --> white
 + `bg-transparent` -->
+
+<hr color="BLUE">
+
+## BORDER AND RADIUS
+
++ **border**
++ **border-top**
++ **border-start**
++ **border-end**
++ **border-bottom**
+* *border-bottom-0*
+* *border-top-0*
+
+### `border colors`
+
++ **border-primary**
++ **danger**
++ **info**
+
+## border size
+
++ **border-1** 1px border
++ **border-2** 2px border
++ **border-3** 3px border
+
+## Border-RADIUS
+
++ **rounded**  0.25rem 4px from all sides
++ **rounded-top**
++ **rounded-end**
++ **rounded-bottom**
++ **rounded-start**
++ **rounded-circle** if width and height of box is `equal` 
++ **rounded-pill**
+
+ ## size increase
+
+ + **rounded-0** less circulatr
+ + **rounded-1**
+ + **rounded-2**
+ + **rounded-3** more circular
+
+ <hr color="white size="10"/>
+
+
+
+
+
