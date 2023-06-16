@@ -55,3 +55,23 @@ mostly our website use 1170px
 every div will get 12
 classes*** 
 
+```
+<div class="container-fluid">
+            <div class="container">
+               
+                <div class="row">
+                    <div class="col-lg-3 col-md-6 col-6">Hello </div>
+                    <div class="col-lg-3 col-md-6 col-6">Hello 2</div>
+                    <div class="col-lg-3 col-md-6 col-6">Hello 3</div>
+                    <div class="col-lg-3 col-md-6 col-6">Hello 3</div>
+                </div>
+            </div>
+    </div>
+```
+## Auto Column Website
+
+
+**IS type ke column ke liye 
+use hoge vaha 12 colums ke according adjust nahi kar sakte**
+
+
