@@ -128,13 +128,14 @@ g-x (0-5) tak hogi**
 * gx-5 uses 3 rem matlab 48px
 24px left padding and 24 px right padding
 
-``` 
-for desktop gx-lg-1
+```for desktop gx-lg-1
 for tablet gx-md-2
-for mobile gx-sm-2```
+for mobile gx-sm-2
+```
 
 
- ```<div class="container">
+
+```<div class="container">
     <div class="row gx-lg-5 gy-4">
         <div class="col-lg col-md col">hello</div>
         <div class="col-lg col-md col">how </div>
@@ -148,8 +149,7 @@ for mobile gx-sm-2```
 
 ## Text Related Class
 
-***There ae some classes of text that will help to do work in less time some of these are
-***
+***There ae some classes of text that will help to do work in less time some of these are***
 - ## `center`
      - `text-start` and desktop `text-lg-start` 
      - `text-center` and
