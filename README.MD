@@ -305,4 +305,12 @@ for mobile gx-sm-2
 ## RESPOINSIVE IMAGE DESIGN CLASS
 
 
+### `img-fluid'
+    * work only when big image is there and div is small 
 
+### `img-thumbnail`
+    * to make image responsive and in any frame
+
+<hr color="white">
+
+## Clear and Font Classes
