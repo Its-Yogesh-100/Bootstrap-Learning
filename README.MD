@@ -289,7 +289,20 @@ for mobile gx-sm-2
 
  <hr color="white size="10"/>
 
+## TEXT COLOR CLASSES
 
+* `text-primary`
+* `text-secondary`
+* `text-success`
+* `text-danger`
+* `text-warning`
+* `text-info`
+* `text-dark`
+* `text-white`
+
+<hr color="blue" size="10">
+
+## RESPOINSIVE IMAGE DESIGN CLASS
 
 
 
