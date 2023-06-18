@@ -305,7 +305,7 @@ for mobile gx-sm-2
 ## RESPOINSIVE IMAGE DESIGN CLASS
 
 
-### `img-fluid'
+### `img-fluid`
     * work only when big image is there and div is small 
 
 ### `img-thumbnail`
@@ -360,6 +360,25 @@ for mobile gx-sm-2
  * `btn btn-lg`
  * `btn btn-sm`
  <hr color="white">
+
+ ## CARD AND CARD LAYOUT
+
+
+
+ ## HIDING ELEMENTS
+
+  * `d-none`--> hide in all devices
+  * `d-none d-sm-block` --> hide in below sm means hide in mobile devices
+
+  * `d-none d-md-block`
+  * `d-none d-lg-block`
+  * `d-block ` --> display on all
+  * `d-none d-lg-block` -->hide on all devices but display only on desktop devices
+
+<hr color="yellow" size="20">
+
+
+
 
 
 
