@@ -314,3 +314,21 @@ for mobile gx-sm-2
 <hr color="white">
 
 ## Clear and Font Classes
+
+**Used to float left and right in content**
+
+  * `float-start` --> to align in left side 
+  * `float-end` -> right side
+  * `float-lg-start`
+  * `float-col-start`
+  * `float-md-end`
+  * `float-none` --> to remove the direction of float
+  *create new `div` and apply
+      * `clear-fix`
+    
+**we also need to clear the direction fo float**
+<hr color="white">
+
+## BUTTON CLASSES
+
+
