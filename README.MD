@@ -355,5 +355,11 @@ for mobile gx-sm-2
 
  `<a href=" " class="btn btn-primary">hello </a>`
 
+ **For large button**
+
+ * `btn btn-lg`
+ * `btn btn-sm`
+ <hr color="white">
+
 
 
