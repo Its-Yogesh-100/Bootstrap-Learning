@@ -331,4 +331,29 @@ for mobile gx-sm-2
 
 ## BUTTON CLASSES
 
+**Here are some example**
+  
+ * `btn`
+ * `btn btn-primary`
+ * `btn btn-secondary`
+ * `btn btn-success`
+ * `btn btn-danger`
+ * `btn btn-dark`
+ * `btn btn-warning`
+ * `btn btn-info`
+ * `btn btn-light`
+ * **OUTLINE TYPE BUTTON**
+ * `btn btn-outline-primary`
+ * `btn btn-outline-secondary`
+ * `btn btn-outline-dark`
+ * `btn btn-outline-light`
+ * `btn btn-outline-danger`
+
+ ***If want to covert `anchor` tag in button***
+
+ example
+
+ `<a href=" " class="btn btn-primary">hello </a>`
+
+
 
